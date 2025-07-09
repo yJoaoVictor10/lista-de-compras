@@ -36,3 +36,14 @@ Entre em contato:
 GitHub: yJoaoVictor10
 
 LinkedIn: João Victor Nascimento Adão
+
+## 🌐 Meu Portfólio Online
+
+Confira meus projetos e habilidades nos links abaixo:
+
+🔗 **Versão hospedada no Vercel**  
+https://lista-de-compras-one-tau.vercel.app/
+
+🔗 **Versão hospedada no GitHub Pages**  
+https://yjoaovictor10.github.io/lista-de-compras/
+
